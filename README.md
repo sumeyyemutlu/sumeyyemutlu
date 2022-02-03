@@ -1,7 +1,7 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/sumeyyemutlu/sumeyyemutlu/blob/main/readme.gif" width="500" height="320" />
 
-### Hi everyone, I'm Sümeyye MUTLU.
-## I'm a student 👨‍🎓 on the way to become a frontend developer.🚀
+## Hi everyone, I'm Sümeyye MUTLU.
+### I'm a student 👨‍🎓 on the way to become a frontend developer.🚀
 
 
 
