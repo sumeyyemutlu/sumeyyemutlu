@@ -21,3 +21,9 @@ Let's move forward together to be a good Frontend developer!
 
 [gmail]: mailto:sumeyyemutlu11@gmail.com
 <br />
+
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <path fill="#c12127" d="M256 0v256H0V0z"/>
+  <path fill="#fff" d="M208 208h-32V80h-48v128H48V48h160z"/>
+</svg>
