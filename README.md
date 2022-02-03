@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/sumeyyemutlu/sumeyyemutlu/blob/main/readme.gif" width="500" height="320" />
 
-## Hi everyone, I'm Sümeyye MUTLU.
+## Hi everyone, I'm Sümeyye.
 ### I'm a student 👨‍🎓 on the way to become a frontend developer.🚀
 
 
